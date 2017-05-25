@@ -1,0 +1,17 @@
+.pokedex-pokemon{
+  float:left;
+    margin: 0px 5px 5px 0px;
+    border: 2px solid #ccc;
+    background-color: #fff;
+}
+.pokedex-pokemon:hover{
+  background-color: green;
+}
+
+
+.load-button{
+  clear: both;
+}
+.clearfix{  clear: both;
+}
+.textCenter{text-align: center;}
